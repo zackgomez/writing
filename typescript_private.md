@@ -28,3 +28,9 @@ Terseness is not a terminal value, it is an instrumental value towards readabili
 ## Conclusion
 
 The compile time behavior of `private` is superior to that of `#` for creating private class properties.  `private` is more consistent with existing language features and `#` brings with it no benefits at compile time.
+
+
+
+## Links
+
+https://github.com/tc39/proposal-class-fields/blob/master/PRIVATE_SYNTAX_FAQ.md
